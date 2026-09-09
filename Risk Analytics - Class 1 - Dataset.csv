@@ -1,0 +1,106 @@
+Risk Analytics - Class 1 - Dataset(Sheet1),,
+Disaster Type,Media Coverage (Articles),Public Perception (Scale 1-10)
+Earthquake,234,8.2
+Hurricane,310,7.8
+Flood,158,6.5
+Wildfire,185,7
+Tornado,96,5.6
+Tsunami,412,9
+Volcanic Eruption,206,7.2
+Drought,87,4.7
+Pandemic,450,8.8
+Industrial Accident,145,5.9
+Avalanche,190,6.8
+Heat Wave,130,5.2
+Landslide,78,4.5
+Earthquake,273,7.9
+Hurricane,326,7.7
+Flood,165,6.6
+Wildfire,245,7.4
+Tornado,110,5.8
+Tsunami,350,8.5
+Volcanic Eruption,192,6.9
+Drought,95,4.8
+Pandemic,480,9.2
+Industrial Accident,160,6
+Avalanche,200,6.9
+Heat Wave,140,5.3
+Landslide,85,4.6
+Earthquake,260,8
+Hurricane,315,7.9
+Flood,168,6.5
+Wildfire,195,7.1
+Tornado,105,5.7
+Tsunami,385,8.8
+Volcanic Eruption,215,7.3
+Drought,90,4.6
+Pandemic,460,9
+Industrial Accident,155,5.8
+Avalanche,210,6.7
+Heat Wave,135,5.3
+Landslide,82,4.5
+Earthquake,248,8
+Hurricane,305,7.6
+Flood,160,6.4
+Wildfire,215,7.2
+Tornado,98,5.6
+Tsunami,390,8.9
+Volcanic Eruption,205,7.2
+Drought,88,4.7
+Pandemic,470,9.1
+Industrial Accident,162,6.1
+Avalanche,195,6.7
+Heat Wave,138,5.2
+Landslide,79,4.4
+Earthquake,200,7.8
+Hurricane,290,7.5
+Flood,150,6.3
+Wildfire,182,7
+Tornado,92,5.5
+Tsunami,400,8.9
+Volcanic Eruption,210,7.2
+Drought,85,4.6
+Pandemic,490,9.2
+Industrial Accident,150,5.9
+Avalanche,188,6.8
+Heat Wave,132,5.3
+Landslide,81,4.5
+Earthquake,270,8.1
+Hurricane,320,7.8
+Flood,170,6.7
+Wildfire,260,7.5
+Tornado,115,5.9
+Tsunami,352,8.4
+Volcanic Eruption,190,6.8
+Drought,92,4.5
+Pandemic,452,9
+Industrial Accident,165,6
+Avalanche,205,6.7
+Heat Wave,142,5.4
+Landslide,86,4.5
+Earthquake,266,8
+Hurricane,312,7.7
+Flood,161,6.6
+Wildfire,222,7.3
+Tornado,104,5.7
+Tsunami,376,8.7
+Volcanic Eruption,208,7.1
+Drought,89,4.7
+Pandemic,430,8.7
+Industrial Accident,158,5.7
+Avalanche,198,6.7
+Heat Wave,145,5.5
+Landslide,84,4.4
+Earthquake,256,7.9
+Hurricane,308,7.7
+Flood,169,6.5
+Wildfire,220,7.4
+Tornado,108,5.8
+Tsunami,342,8.4
+Volcanic Eruption,213,7
+Drought,99,4.8
+Pandemic,470,9.1
+Industrial Accident,168,6
+Avalanche,202,6.9
+Heat Wave,137,5.3
+Landslide,89,4.6
